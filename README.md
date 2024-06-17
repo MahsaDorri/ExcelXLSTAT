@@ -58,10 +58,10 @@ Salary and Gender: Biserial correlation coefficient (r) of -0.445 and a p-value 
 # 13. Modeling
 Performed regression analysis to build a model using the variables norm-salary, norm-salbegin, and jobcat.
 
-# # Usage
+# Usage
 Clone the repository.
 Open the Excel files and follow the documentation steps for data preprocessing and analysis.
 Use XLSTAT for advanced statistical analysis as detailed in the documentation.
-# # Requirements
+# Requirements
 Excel
 XLSTAT
